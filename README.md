@@ -16,11 +16,11 @@ Acredito que o código é o meio, mas a experiência do usuário é o que define
 
 ---
 
-[![Seguidores](https://img.shields.io/github/followers/lu241112003?label=SEGUIDORES&style=flat-square&color=0969da)](https://github.com/lu241112003)
-[![Estrelas](https://img.shields.io/github/stars/lu241112003?label=ESTRELAS&style=flat-square&color=0969da)](https://github.com/lu241112003)
+[![Seguidores](https://img.shields.io/github/followers/ronaldlcs?label=SEGUIDORES&style=flat-square&color=0969da)](https://github.com/ronaldlcs)
+[![Estrelas](https://img.shields.io/github/stars/ronaldlcs?label=ESTRELAS&style=flat-square&color=0969da)](https://github.com/ronaldlcs)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-lucas-16624a205/)
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wagxzStdcR)
-[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-FF4500?style=flat-square)](https://github.com/lu241112003)
+[![Portfólio](https://img.shields.io/badge/PORTFÓLIO-FF4500?style=flat-square)](https://github.com/ronaldlcs)
 
 ---
 
@@ -36,19 +36,19 @@ Acredito que o código é o meio, mas a experiência do usuário é o que define
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=lu241112003&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=58a6ff" />
+  <img src="https://streak-stats.demolab.com/?user=ronaldlcs&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=58a6ff" />
 
   <br/>
 
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lu241112003&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lu241112003&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronaldlcs&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronaldlcs&theme=github_dark" />
 
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lu241112003&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lu241112003&theme=github_dark&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronaldlcs&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronaldlcs&theme=github_dark&utcOffset=-3" />
 
   <br/><br/>
 
