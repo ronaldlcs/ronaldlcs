@@ -36,16 +36,11 @@ Acredito que o código é o meio, mas a experiência do usuário é o que define
 
 <div align="center">
 
- 
-
-  <br/>
-
   <br/>
 
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronaldlcs&theme=github_dark" />
 
-  <br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronaldlcs&theme=github_dark" />
   
