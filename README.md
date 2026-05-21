@@ -36,19 +36,19 @@ Acredito que o código é o meio, mas a experiência do usuário é o que define
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=ronaldlcs&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=58a6ff" />
+ 
 
   <br/>
 
   <br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronaldlcs&theme=github_dark" />
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronaldlcs&theme=github_dark" />
 
   <br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ronaldlcs&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ronaldlcs&theme=github_dark&utcOffset=-3" />
+  
 
   <br/><br/>
 
