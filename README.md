@@ -10,9 +10,9 @@ Sou estudante de engenharia de software, atualmente estou unindo minha base téc
 
 Acredito que o código é o meio, mas a experiência do usuário é o que define o sucesso de um produto. Por isso, foco meus estudos em transformar boas ideias em soluções bem construídas.
 
-- 🌱 Atualmente explorando: 🐍 Python | ⚛️ React | 🟢 Node.js | ⚡ FastAPI | 📘 TypeScript
-- 🔧 Background técnico: Desenvolvimento de sistemas e APIs REST (Node.js / FastAPI).
-- 🎯 Buscando aplicar Dev & Arquitetura de Software para resolver problemas reais de mercado.
+- Atualmente explorando:  Python |  React |  Node.js |  FastAPI |  TypeScript
+- Background técnico: Desenvolvimento de sistemas e APIs REST (Node.js / FastAPI).
+- Buscando aplicar Dev & Arquitetura de Software para resolver problemas reais de mercado.
 
 ---
 
@@ -32,7 +32,7 @@ Acredito que o código é o meio, mas a experiência do usuário é o que define
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
 
